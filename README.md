@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mecha-NOX
-- 👀 I’m interested in Game Development and Games and every thing related to games!
+- 👀 I’m interested in Game Development and Games and everything related to games!
 - 🌱 I’m currently learning Lua and C#
 - 💞️ I’m looking to collaborate on Game Development using Unreal Engine or C++
 - 📫 Reach me at [here](https://www.linkedin.com/in/kartikchat)
